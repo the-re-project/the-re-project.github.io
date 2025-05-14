@@ -5,7 +5,7 @@ Aims to provide some useful(maybe) tools or equipments.
 
 ## re/Analog Series
 
-* [Pentax IR Remote](projects/pentax-ir-remote.md) 宾得(或者其他)遥控
+* [Pentax IR Remote](projects/pentax-ir-remote.md) 宾得(或者其它)遥控
 
 
 ## Repair Series
