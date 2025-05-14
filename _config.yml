@@ -3,6 +3,13 @@ title: The Re Project
 
 remote_theme: "jekyll/minima@c6e74bb"
 
-nav_pages:
-# - about.md
 
+minima:
+
+  nav_pages:
+  #  - about.md
+
+  social_links:
+    - title: 小红书
+      icon: address-card
+      url: "https://www.xiaohongshu.com/user/profile/6073f800000000000100ba82"
