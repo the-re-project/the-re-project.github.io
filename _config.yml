@@ -1,3 +1,4 @@
-theme: jekyll-theme-minima
+remote_theme: "jekyll/minima@c6e74bb"
+# theme: jekyll-theme-minima
 title: The Re Project
 description: 
