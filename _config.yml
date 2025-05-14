@@ -2,4 +2,7 @@ title: The Re Project
 # description: 
 
 remote_theme: "jekyll/minima@c6e74bb"
-# theme: jekyll-theme-minima
+
+nav_pages:
+# - about.md
+

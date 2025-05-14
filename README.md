@@ -1,5 +1,3 @@
-# The Re Project
-
 The chaos of some in progressing or stucked projects for Analog Photography.
 Aims to provide some useful(maybe) tools or equipments.
 
