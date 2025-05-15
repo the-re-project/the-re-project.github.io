@@ -2,7 +2,7 @@
 layout: post
 title: "快门测试笔使用方法"
 categories: tools
-modified_date: 2025-05-15
+date: 2025-05-15
 ---
 
 ![手持快门测试笔](images/shutter-tester-pen-cover.jpg)
