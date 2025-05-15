@@ -1,6 +1,9 @@
-# 快门测试笔使用方法
-
-<div style="color: #ccc; line-height: 16px; padding-top: 16px">最后更新: 2025-05-15</div>
+---
+layout: post
+title: "快门测试笔使用方法"
+categories: tools
+modified_date: 2025-05-15
+---
 
 ![手持快门测试笔](images/shutter-tester-pen-cover.jpg)
 
