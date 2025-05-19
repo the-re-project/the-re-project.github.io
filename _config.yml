@@ -3,7 +3,7 @@ title: The Re Project
 
 remote_theme: "jekyll/minima@c6e74bb"
 
-
+# github 如果未使用4.0 jeklly，无法识别本地配置 https://github.com/jekyll/jekyll/issues/7971
 minima:
 
   nav_pages:
