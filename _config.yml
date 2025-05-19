@@ -7,7 +7,7 @@ remote_theme: "jekyll/minima@c6e74bb"
 minima:
 
   nav_pages:
-  #  - about.md
+    - about.md
 
   social_links:
     - title: 小红书
