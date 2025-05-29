@@ -1,6 +1,8 @@
 The chaos of some in progressing or stucked projects for Analog Photography.
 Aims to provide some useful(maybe) tools or equipments.
 
+![in progressing](projects/images/cover.jpg)
+
 ## re/Analog Series
 
 * [Pentax IR Remote](projects/pentax-ir-remote.md) 宾得(或者其它)遥控
